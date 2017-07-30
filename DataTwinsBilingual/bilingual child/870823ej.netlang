@@ -1,0 +1,233 @@
+0.
+    
+oh !
+               
+M little jugo@s.
+                    .
+            .
+   .
+yeah.
+                    
+ &+m          .
+      [)].
+                                        ?
+              (.)          poco agua.
+Joshua Joshua.
+yyy.
+&+mm ?
+ (echo agua) [)].
+oh !
+     !
+               (.) es@s wet.
+         
+sit.
+oh !
+oh !
+ eso.
+          .
+                  
+      
+oh.
+ frio ?
+      
+      
+wet.
+     
+there.
+yyy.
+           
+is up here.
+is up here.
+is up here.
+happy yyy.
+(happy yyy) [(].
+yyy.
+               
+                 
+                     
+yes.
+               
+               
+          
+dad dad watch watch watch.
+mum^mum^mum^mum^yum^tum@wp.
+            
+I want jump.
+jump.
+jump.
+jump.
+              
+   
+            
+yes.
+where's it ?
+yyy.
+             
+yes.
+         
+yyy.
+&+men (Mena's) [)] fis(h).
+M.
+yyy.
+        
+yyy.
+                 
+how a pomy@c ?
+yyy.
+        
+yyy.
+juice ?
+              
+M wants juice.
+sorry.
+              
+             
+get out.
+          
+             
+              
+yyy.
+look.
+up.
+        
+        
+up.
+
+
+               
+
+**one**
+pap.
+M little jugos.
+M littles echa jugo
+M echo jugo
+limpiarlo con agua.
+yes
+poca agua
+piso
+Joshua limpiar eso poco agua poco agua
+un poco agua
+ven aquí 
+look
+esos wet there
+told him.
+me get wet
+something got wet.
+apple.
+ frio.
+sorry.
+cold.
+is up here.
+ mama eso papa.
+give it to daddy.
+mum give it to daddy.
+daddy 's watch.
+is pretty.
+I want jump.
+where is mine 
+it is daddy 's.
+it is dirty.
+no.
+mummy get it.
+I got it.
+morning.
+how is the pony ?
+now Min.
+M wants juice.
+this is juice.
+ no destapes.
+M get out.
+will get out.
+ de la tienda.
+pick up.
+rubbish.
+**two**
+pap.
+M little jugos.
+M littles echa jugo
+M echo jugo
+limpiarlo con agua.
+yes
+poca agua
+piso
+Joshua limpiar eso poco agua poco agua
+un poco agua
+ven aquí 
+look
+esos wet there
+told him.
+me get wet
+something got wet.
+apple.
+ frio.
+sorry.
+cold.
+is up here.
+ mama eso papa.
+give it to daddy.
+mum give it to daddy.
+daddy 's watch.
+is pretty.
+I want jump.
+where is mine 
+it is daddy 's.
+it is dirty.
+no.
+mummy get it.
+I got it.
+morning.
+how is the pony ?
+now Min.
+M wants juice.
+this is juice.
+ no destapes.
+M get out.
+will get out.
+ de la tienda.
+pick up.
+rubbish.
+**tree**
+<s>   <tok>      <orth>pap</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>M</orth>      <ordno>1</ordno>      <ctag>Proper Name</ctag>   </tok>   <tok>      <orth>little</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>jugos</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>   </tok></s>
+<s>   <tok>      <orth>M</orth>      <ordno>1</ordno>      <ctag>Proper Name</ctag>      <syn>         <head>3</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>littles</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>echa</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>jugo</orth>      <ordno>4</ordno>      <ctag>Spanish</ctag>      <syn>         <head>3</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>M</orth>      <ordno>1</ordno>      <ctag>Proper Name</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>echo</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>jugo</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>limpiarlo</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>con</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>agua</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>yes</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>poca</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>agua</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>   </tok></s>
+<s>   <tok>      <orth>piso</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok></s>
+<s>   <tok>      <orth>Joshua</orth>      <ordno>1</ordno>      <ctag>Proper Name</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>limpiar</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>eso</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok>   <tok>      <orth>poco</orth>      <ordno>4</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>agua</orth>      <ordno>5</ordno>      <ctag>Spanish</ctag>      <syn>         <head>4</head>         <reltype>Complement</reltype>      </syn>   </tok>   <tok>      <orth>poco</orth>      <ordno>6</ordno>   </tok>   <tok>      <orth>agua</orth>      <ordno>7</ordno>   </tok></s>
+<s>   <tok>      <orth>un</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>poco</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>      <syn>         <head>1</head>         <reltype>Complement</reltype>      </syn>   </tok>   <tok>      <orth>agua</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>ven</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>aquí</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>look</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>esos</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>wet</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>there</orth>      <ordno>3</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>told</orth>      <ordno>1</ordno>   </tok>   <tok>      <orth>him</orth>      <ordno>2</ordno>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>me</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>get</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>wet</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>something</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>got</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>wet</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>apple</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>frio</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok></s>
+<s>   <tok>      <orth>sorry</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>cold</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>is</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>up</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>here</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>mama</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>eso</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>papa</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>   </tok></s>
+<s>   <tok>      <orth>give</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok>   <tok>      <orth>to</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>daddy</orth>      <ordno>4</ordno>      <ctag>English</ctag>      <syn>         <head>3</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>mum</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>give</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>it</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok>   <tok>      <orth>to</orth>      <ordno>4</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>daddy</orth>      <ordno>5</ordno>      <ctag>English</ctag>      <syn>         <head>4</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>daddy</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Complement</reltype>      </syn>   </tok>   <tok>      <orth>'s</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>3</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>watch</orth>      <ordno>3</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>is</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>pretty</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>I</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>want</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>jump</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>where</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>is</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>mine</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>it</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>is</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>daddy</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>4</head>         <reltype>Complement</reltype>      </syn>   </tok>   <tok>      <orth>'s</orth>      <ordno>4</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Attribute</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>it</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>is</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>dirty</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Attribute</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>no</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>mummy</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>get</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>it</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>I</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>got</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>it</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>morning</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>
+<s>   <tok>      <orth>how</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Attribute</reltype>      </syn>   </tok>   <tok>      <orth>is</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>the</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>pony</orth>      <ordno>4</ordno>      <ctag>English</ctag>      <syn>         <head>3</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>now</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>Min</orth>      <ordno>2</ordno>      <ctag>Proper Name</ctag>   </tok></s>
+<s>   <tok>      <orth>M</orth>      <ordno>1</ordno>      <ctag>Proper Name</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>wants</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>juice</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>this</orth>      <ordno>1</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>is</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>juice</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Attribute</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>no</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>destapes</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>   </tok></s>
+<s>   <tok>      <orth>M</orth>      <ordno>1</ordno>      <ctag>Proper Name</ctag>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>get</orth>      <ordno>2</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>out</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>will</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>get</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Complement</reltype>      </syn>   </tok>   <tok>      <orth>out</orth>      <ordno>3</ordno>      <ctag>English</ctag>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>de</orth>      <ordno>1</ordno>      <ctag>Spanish</ctag>   </tok>   <tok>      <orth>la</orth>      <ordno>2</ordno>      <ctag>Spanish</ctag>      <syn>         <head>1</head>         <reltype>Complement</reltype>      </syn>   </tok>   <tok>      <orth>tienda</orth>      <ordno>3</ordno>      <ctag>Spanish</ctag>      <syn>         <head>2</head>         <reltype>Complement</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>pick</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok>   <tok>      <orth>up</orth>      <ordno>2</ordno>      <ctag>English</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>rubbish</orth>      <ordno>1</ordno>      <ctag>English</ctag>   </tok></s>

@@ -1,0 +1,190 @@
+       
+                
+    
+     
+    
+      
+
+     
+      
+
+
+
+       
+           
+     
+
+          
+             
+              
+         
+         
+bounce it.
+           
+squeezing it.
+             
+squeezing it.
+
+
+bounce it daddy.
+bounce it.
+
+
+me miss it.
+
+color.
+color.
+
+what color ?
+
+daddy do.
+daddy draw cycle.
+cycle.
+yyy.
+yellow.
+pick orange one.
+
+daddy get it.
+
+
+purple.
+color daddy house.
+a purple house.
+daddy draw circles.
+make a face.
+eyes.
+need +...
+need mouth.
+
+big mouth.
+I got a nose.
+there.
+green nose.
+
+big face.
+daddy do it again.
+another house.
+yyy.
+read mouse.
+daddy read bunny.
+frog.
+frog.
+bunny.
+bug [(].
+bunny [(].
+Frannie.
+jumping.
+bed.
+window.
+jumping.
+block.
+brushing teeth.
+doing there.
+washing her face.
+what ?
+that (i)s comb.
+egg.
+soap.
+putting on.
+putting on a dress.
+putting on a +...
+dress.
+.
+red.
+sock.
+shoes.
+shoes and socks.
+that (i)s &-um breakfast.
+that (i)s &-um beans.
+.
+that.
+fried egg.
+
+what (i)s in there sand in there.
+you do that.
+mommy does that.
+read one book.
+read this one.
+read the.
+look at that.
+sun shining.
+sit down.
+sit down.
+helpin(g).
+.
+cup.
+cup.
+plate.
+that.
+bowl.
+this fork.
+this.
+that.
+knife !
+spoon.
+.
+
+
+looking in the house.
+kicking.
+(you can) [(].
+kicking.
+done reading now.
+
+**one**
+say hi.
+put it on there.
+one.
+five.
+two.
+three.
+four.
+seven.
+thanks.
+green ball.
+soft.
+bounce it.
+daddy get it.
+you bounce it.
+throw it.
+catch it.
+squeeze it.
+squeezing it.
+**two**
+say hi.
+put it on there.
+one.
+five.
+two.
+three.
+four.
+seven.
+thanks.
+green ball.
+soft.
+bounce it.
+daddy get it.
+you bounce it.
+throw it.
+catch it.
+squeeze it.
+squeezing it.
+**tree**
+<s>   <tok>      <orth>say</orth>      <ordno>1</ordno>      <ctag>Verb</ctag>   </tok>   <tok>      <orth>hi</orth>      <ordno>2</ordno>      <ctag>Interjection</ctag>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>put</orth>      <ordno>1</ordno>      <ctag>Verb</ctag>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <ctag>Pronoun</ctag>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok>   <tok>      <orth>on</orth>      <ordno>3</ordno>      <ctag>Preposition</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>there</orth>      <ordno>4</ordno>      <ctag>Adverb</ctag>      <syn>         <head>1</head>         <reltype>Modifier</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>one</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>five</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>two</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>three</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>four</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>seven</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>thanks</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>green</orth>      <ordno>1</ordno>      <syn>         <head>2</head>         <reltype>Modifier</reltype>      </syn>   </tok>   <tok>      <orth>ball</orth>      <ordno>2</ordno>   </tok></s>
+<s>   <tok>      <orth>soft</orth>      <ordno>1</ordno>   </tok></s>
+<s>   <tok>      <orth>bounce</orth>      <ordno>1</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>daddy</orth>      <ordno>1</ordno>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>get</orth>      <ordno>2</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>3</ordno>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>you</orth>      <ordno>1</ordno>      <syn>         <head>2</head>         <reltype>Subject</reltype>      </syn>   </tok>   <tok>      <orth>bounce</orth>      <ordno>2</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>3</ordno>      <syn>         <head>2</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>throw</orth>      <ordno>1</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>catch</orth>      <ordno>1</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>squeeze</orth>      <ordno>1</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>
+<s>   <tok>      <orth>squeezing</orth>      <ordno>1</ordno>   </tok>   <tok>      <orth>it</orth>      <ordno>2</ordno>      <syn>         <head>1</head>         <reltype>Object</reltype>      </syn>   </tok></s>

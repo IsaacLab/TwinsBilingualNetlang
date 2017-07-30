@@ -1,0 +1,23 @@
+Source,Interaction,Target ,,,
+on,Modifier,put,,Interaction,
+there,Modifier,put,,Modifier,3
+green,Modifier,ball,,Object,9
+hi,Object,say,,Subject,2
+it,Object,put,,,
+it,Object,bounce,,,
+it,Object,get,,,
+it,Object,bounce,,,
+it,Object,throw,,,
+it,Object,catch,,,
+it,Object,squeeze,,,
+it,Object,squeezing,,,
+daddy,Subject,get,,,
+you,Subject,bounce,,,
+one,,,,,
+five,,,,,
+two,,,,,
+three,,,,,
+four,,,,,
+seven,,,,,
+thanks,,,,,
+soft,,,,,

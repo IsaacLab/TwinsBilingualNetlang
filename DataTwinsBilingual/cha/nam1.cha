@@ -1,0 +1,1510 @@
+@UTF8
+@PID:	11312/c-00005397-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Naomi Target_Child , FAT Father
+@ID:	eng|Feldman|CHI|2;6.||||Target_Child|||
+@ID:	eng|Feldman|FAT|||||Father|||
+@Comment:	Gestational age of Nam: 30 Transcriber is Wareham
+@Situation:	living room
+@Bg:	warm up
+*FAT:	say hello .
+%mor:	v|say n|hello .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$INI
+*CHI:	say hi .
+%mor:	co|say co|hi .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	pushes buttons on phone
+%cod:	$REC
+*CHI:	put it on there .
+%mor:	v|put&ZERO pro:per|it prep|on adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%act:	continues to play with phone
+%cod:	$CON
+*FAT:	can you count ?
+%mor:	mod|can pro:per|you v|count ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$INI
+*CHI:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes button
+%cod:	$REC
+*CHI:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes button
+%cod:	$CON
+*FAT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to button on phone
+%cod:	$REC
+*CHI:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes button on phone
+%cod:	$REC
+*FAT:	that ?
+%mor:	pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes button on phone
+%cod:	$REC
+*FAT:	push one two six .
+%mor:	n|push pro:indef|one det:num|two det:num|six .
+%gra:	1|2|MOD 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%cod:	$CON
+*CHI:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes button
+%cod:	$REC
+*FAT:	okay three .
+%mor:	co|okay det:num|three .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	what (i)s next ?
+%mor:	pro:int|what aux|be&3S adv|next ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	pushes button
+%cod:	$REA
+*FAT:	we already pushed one .
+%mor:	pro:sub|we adv|already v|push-PAST pro:indef|one .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$REC
+*FAT:	what (i)s next ?
+%mor:	pro:int|what aux|be&3S adv|next ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$CON
+*FAT:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*CHI:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	seven .
+%mor:	det:num|seven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes button
+%cod:	$CON
+*FAT:	no that (i)s five not seven .
+%mor:	qn|no pro:dem|that cop|be&3S det:num|five neg|not det:num|seven .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|4|NEG 6|3|PRED 7|3|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this one ?
+%mor:	pro:int|what cop|be&3S pro:dem|this pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%gpx:	points to button on phone
+%cod:	$CON
+%com:	following part of tape unintelligible due to low volume
+@Eg:	warm up
+@Bg:	roll-a-ball
+*FAT:	0 .
+%act:	rolls ball to Naomi
+%cod:	$INI
+*FAT:	whoa .
+%mor:	co|whoa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	ball rolls back
+%cod:	$CON
+*CHI:	0 .
+%act:	gets ball
+%cod:	$REA
+*FAT:	throw it back ?
+%mor:	v|throw pro:per|it adv|back ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%act:	claps hands
+%cod:	$REC
+*CHI:	0 .
+%act:	rolls ball back
+%cod:	$REA
+*FAT:	that (i)s it .
+%mor:	pro:dem|that cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$REC
+*FAT:	can you catch it ?
+%mor:	mod|can pro:per|you v|catch pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$CON
+*FAT:	hold out your hand .
+%mor:	v|hold adv|out det:poss|your n|hand .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	holds out hand to receive ball
+%cod:	$REA
+*FAT:	that a girl !
+%mor:	pro:rel|that det:art|a n|girl !
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%cod:	$REC
+*FAT:	nice catch !
+%mor:	adj|nice v|catch !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$CON
+*CHI:	thanks .
+%mor:	co|thanks .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	green ball .
+%mor:	adj|green n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	throws ball
+%cod:	$CON
+*FAT:	green ball .
+%mor:	adj|green n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	soft huh ?
+%mor:	adj|soft co|huh ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	rolls ball
+%cod:	$CON
+*CHI:	soft .
+%mor:	adj|soft .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	they're easy to catch huh ?
+%mor:	pro:sub|they~aux|be&PRES adj|ease&dn-Y inf|to v|catch co|huh ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%cod:	$REC
+*CHI:	0 .
+%act:	rolls ball back
+%cod:	$REA
+*FAT:	bounce it .
+%mor:	v|bounce pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	bounces ball
+%cod:	$REC
+*CHI:	bounce it .
+%mor:	v|bounce pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*FAT:	oops .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	ball rolls away from Naomi
+%cod:	$REC
+*CHI:	daddy get it .
+%mor:	n|daddy aux|get pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	can't get ball
+%cod:	$REC
+*FAT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gets ball
+%cod:	$REC
+*FAT:	we don't need any more bruises .
+%mor:	pro:sub|we mod|do~neg|not v|need qn|any qn|more n|bruise-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+%cod:	$CON
+*FAT:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$CON
+*FAT:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	situates Naomi in front of him
+%cod:	$CON
+*FAT:	ready ?
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*CHI:	you bounce it .
+%mor:	pro:per|you v|bounce pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$REC
+*FAT:	what do you want to do ?
+%mor:	pro:int|what mod|do pro:per|you v|want inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%cod:	$REC
+*CHI:	throw it .
+%mor:	v|throw pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*FAT:	throw it .
+%mor:	v|throw pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	throws ball
+%cod:	$REC
+*FAT:	oh you missed it .
+%mor:	co|oh pro:per|you v|miss-PAST pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	ball rolls back to father
+%cod:	$CON
+*FAT:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	throws ball
+%cod:	$CON
+*CHI:	catch it .
+%mor:	v|catch pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	catches ball and throws it back
+%cod:	$REC
+*FAT:	bounce it ?
+%mor:	v|bounce pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	bounces ball
+%cod:	$REC
+*CHI:	bounce it .
+%mor:	v|bounce pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	ball rolls past her then she gets it
+%cod:	$REC
+*FAT:	oops .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	bounce it back to daddy ?
+%mor:	v|bounce pro:per|it adv|back prep|to n|daddy ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$CON
+*CHI:	squeeze it .
+%mor:	v|squeeze pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	squeezing ball
+%cod:	$INI
+*FAT:	bounce it back ?
+%mor:	v|bounce pro:per|it adv|back ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$Sco
+*CHI:	squeezing it .
+%mor:	part|squeeze-PRESP pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%act:	continues to squeeze ball
+%cod:	$Sco
+*CHI:	squeezing it .
+%mor:	part|squeeze-PRESP pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$CON
+*FAT:	you like to squeeze it .
+%mor:	pro:per|you v|like inf|to v|squeeze pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%cod:	$REC
+*CHI:	squeezing it .
+%mor:	part|squeeze-PRESP pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*CHI:	0 .
+%act:	rolls ball back
+%cod:	$INI
+*FAT:	can you bounce it ?
+%mor:	mod|can pro:per|you v|bounce pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	bounces ball
+%cod:	$REC
+*CHI:	0 .
+%act:	rolls ball
+%cod:	$REA
+*FAT:	that a girl .
+%mor:	pro:rel|that det:art|a n|girl .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%act:	picks up ball
+%cod:	$REC
+*CHI:	bounce it daddy .
+%mor:	v|bounce pro:per|it n|daddy .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%cod:	$REC
+*CHI:	bounce it .
+%mor:	v|bounce pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$CON
+*FAT:	0 .
+%act:	bounces ball which rolls under table
+%cod:	$REA
+*FAT:	oops daddy get it .
+%mor:	co|oops n|daddy aux|get pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%act:	goes to ball
+%cod:	$CON
+*CHI:	0 .
+%act:	follows father
+%cod:	$REA
+*FAT:	stay right there .
+%mor:	n|stay adv|right adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+%cod:	$REC
+*CHI:	0 .
+%act:	sits ready to play
+%cod:	$REA
+*FAT:	ready ?
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	whoa .
+%mor:	co|whoa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	rolls ball and ball comes back
+%cod:	$CON
+*CHI:	me miss it .
+%mor:	pro:obj|me v|miss pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$REC
+*FAT:	you missed it ?
+%mor:	pro:per|you v|miss-PAST pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$REC
+*FAT:	0 .
+%act:	throws ball
+%cod:	$CON
+*CHI:	0 .
+%act:	catches ball
+%cod:	$REA
+*FAT:	caught it .
+%mor:	v|catch&PAST pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+@Eg:	roll-a-ball
+@Bg:	coloring
+*FAT:	here do you want to color ?
+%mor:	adv|here v|do pro:per|you v|want prep|to n|color ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$INI
+*CHI:	color .
+%mor:	n|color .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	color .
+%mor:	n|color .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*FAT:	there (i)s [*] some crayons .
+%mor:	adv|there cop|be&3S qn|some n|crayon-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%act:	puts crayons on floor
+%cod:	$REC
+*FAT:	let (u)s get you some paper .
+%mor:	v|let&ZERO pro:obj|us v|get pro:per|you qn|some n|paper .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|QUANT 6|4|OBJ 7|1|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	takes crayons from box
+%cod:	$REA
+*FAT:	what color you got there ?
+%mor:	pro:int|what n|color pro:per|you v|get&PAST adv|there ?
+%gra:	1|2|MOD 2|4|OBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%cod:	$REC
+*FAT:	what color is that ?
+%mor:	pro:int|what n|color cop|be&3S pro:dem|that ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$CON
+*CHI:	what color ?
+%mor:	pro:int|what n|color ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	hands crayon to father
+%cod:	$REC
+*FAT:	you color .
+%mor:	pro:per|you v|color .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	you gonna color ?
+%mor:	pro:per|you part|go-PRESP~inf|to v|color ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	draws
+%cod:	$REA
+*FAT:	what are you gonna draw ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP~inf|to v|draw ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%cod:	$REC
+*CHI:	daddy do .
+%mor:	n|daddy v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	hands crayon to dad
+%cod:	$INI
+*FAT:	what do you want me to draw ?
+%mor:	pro:int|what mod|do pro:per|you v|want pro:obj|me inf|to v|draw ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XCOMP 8|4|PUNCT
+%cod:	$REC
+*CHI:	daddy draw cycle .
+%mor:	n|daddy v|draw n|cycle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$REC
+*FAT:	color what ?
+%mor:	v|color pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*CHI:	cycle .
+%mor:	n|cycle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	a cycle .
+%mor:	det:art|a n|cycle .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	colors
+%cod:	$REC
+*CHI:	yyy .
+%cod:	$REC
+*FAT:	that (i)s a funny looking cycle isn't it ?
+%mor:	pro:dem|that cop|be&3S det:art|a adj|fun&dn-Y part|look-PRESP
+	n|cycle cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|7|SUBJ 7|2|PRED 8|7|NEG
+	9|7|PRED 10|2|PUNCT
+%cod:	$REC
+*FAT:	that (i)s not a very good color .
+%mor:	pro:rel|that aux|be&3S neg|not det:art|a adv|very adj|good n|color
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|2|NEG 4|7|DET 5|6|JCT 6|7|MOD 7|2|PRED 8|2|PUNCT
+%cod:	$CON
+*FAT:	we can't see it .
+%mor:	pro:sub|we mod|can~neg|not v|see pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$CON
+*FAT:	what color is it ?
+%mor:	pro:int|what n|color aux|be&3S pro:per|it ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$CON
+*FAT:	Naomi what color is this ?
+%mor:	n:prop|Naomi det:int|what n|color cop|be&3S pro:dem|this ?
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%act:	holds up crayon
+%cod:	$CON
+*CHI:	yellow .
+%mor:	n|yellow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	colors
+%cod:	$REC
+*FAT:	yellow yeah .
+%mor:	n|yellow co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%cod:	$REC
+*FAT:	okay let (u)s pick another color .
+%mor:	co|okay v|let&ZERO pro:obj|us v|pick qn|another n|color .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+%cod:	$CON
+*CHI:	pick orange one .
+%mor:	v|pick adj|orange pro:indef|one .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%cod:	$REC
+*FAT:	okay let (u)s turn it over .
+%mor:	co|okay v|let&ZERO pro:obj|us v|turn pro:per|it adv|over .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%cod:	$REC
+*FAT:	you want orange .
+%mor:	pro:per|you v|want n|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$CON
+*FAT:	okay pick out the orange one .
+%mor:	co|okay v|pick prep|out det:art|the n|orange pro:indef|one .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	tries to get crayon but can't
+%cod:	$REA
+*CHI:	daddy get it .
+%mor:	n|daddy aux|get pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	hands box to father
+%cod:	$CON
+*FAT:	0 .
+%act:	loosens crayons in box and hands to Naomi
+%cod:	$REA
+*CHI:	0 .
+%act:	takes crayon
+%cod:	$REA
+*FAT:	what are you going to draw ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP inf|to v|draw ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%cod:	$REC
+*FAT:	draw a house ?
+%mor:	v|draw det:art|a n|house ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	colors
+%cod:	$REA
+*FAT:	that (i)s pretty .
+%mor:	pro:rel|that aux|be&3S adv|pretty .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$REC
+*FAT:	can you draw a flower ?
+%mor:	mod|can pro:per|you v|draw det:art|a n|flower ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$CON
+*FAT:	what color is that ?
+%mor:	pro:int|what n|color cop|be&3S pro:dem|that ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%act:	takes crayon from box and holds it up
+%cod:	$INI
+*CHI:	purple .
+%mor:	adj|purple .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	oh purple .
+%mor:	co|oh n|purple .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	you want daddy to draw you a house ?
+%mor:	pro:per|you v|want n|daddy inf|to v|draw pro:per|you det:art|a
+	n|house ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|2|PUNCT
+%cod:	$INI
+*CHI:	color daddy house .
+%mor:	n|color n|daddy n|house .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$REC
+*FAT:	okay what (doe)s the house need ?
+%mor:	co|okay pro:int|what v|do&3S det:art|the n|house v|need ?
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+%cod:	$REC
+*FAT:	what are you putting on there ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|put-PRESP prep|on
+	adv|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|XJCT 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$CON
+*CHI:	a purple house .
+%mor:	det:art|a adj|purple n|house .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$REC
+*FAT:	a purple house .
+%mor:	det:art|a adj|purple n|house .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$REC
+*FAT:	we have_to put something in that house don't we .
+%mor:	pro:sub|we mod:aux|have_to v|put&ZERO pro:indef|something prep|in
+	pro:dem|that n|house mod|do~neg|not pro:sub|we .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|5|POBJ 11|3|PUNCT
+%cod:	$CON
+*FAT:	boy that (i)s nice .
+%mor:	co|boy pro:dem|that cop|be&3S adj|nice .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$CON
+*CHI:	daddy draw circles .
+%mor:	n|daddy v|draw n|circle-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	hands crayon to father
+%cod:	$INI
+*FAT:	draw circles ?
+%mor:	v|draw n|circle-PL ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*FAT:	here let (u)s get another piece of the paper .
+%mor:	adv|here v|let&ZERO pro:obj|us v|get qn|another n|piece prep|of
+	det:art|the n|paper .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%act:	puts new paper down
+%cod:	$CON
+*FAT:	make a face ?
+%mor:	v|make det:art|a n|face ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$CON
+*CHI:	make a face .
+%mor:	v|make det:art|a n|face .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$REC
+*FAT:	www .
+%cod:	$REC
+*FAT:	what are you making .
+%mor:	pro:int|what aux|be&PRES pro:per|you part|make-PRESP .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$CON
+*CHI:	eyes .
+%mor:	n|eye-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	eyes .
+%mor:	n|eye-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	those are some big eyes .
+%mor:	pro:dem|those cop|be&PRES qn|some adj|big n|eye-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|2|PUNCT
+%cod:	$CON
+*FAT:	what else does it need ?
+%mor:	pro:int|what post|else mod|do&3S pro:per|it v|need ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$CON
+*CHI:	need +...
+%mor:	v|need +...
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	need mouth .
+%mor:	v|need n|mouth .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$CON
+*FAT:	needs a mouth ?
+%mor:	v|need-3S det:art|a n|mouth ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$REC
+*FAT:	put a mouth on there .
+%mor:	v|put&ZERO det:art|a n|mouth prep|on adv|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	colors
+%cod:	$REA
+*FAT:	that (i)s a big mouth .
+%mor:	pro:dem|that cop|be&3S det:art|a adj|big n|mouth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%cod:	$REC
+*CHI:	big mouth .
+%mor:	adj|big n|mouth .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	how about a nose ?
+%mor:	adv:int|how adv|about det:art|a n|nose ?
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%cod:	$REC
+*FAT:	what about a nose ?
+%mor:	pro:int|what adv|about det:art|a n|nose ?
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%cod:	$CON
+*CHI:	I got a nose .
+%mor:	pro:sub|I v|get&PAST det:art|a n|nose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$REC
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to picture
+%cod:	$CON
+*FAT:	how about a green nose ?
+%mor:	adv:int|how adv|about det:art|a adj|green n|nose ?
+%gra:	1|5|LINK 2|5|JCT 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%act:	colors on picture
+%cod:	$REC
+*CHI:	green nose .
+%mor:	adj|green n|nose .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	let (u)s make another circle .
+%mor:	v|let&ZERO pro:obj|us v|make qn|another n|circle .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|1|PUNCT
+%cod:	$INI
+*FAT:	here're the eyes .
+%mor:	pro:exist|here~aux|be&PRES det:art|the n|eye-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%cod:	$CON
+*FAT:	what else do we need ?
+%mor:	pro:int|what post|else mod|do pro:sub|we v|need ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$CON
+*CHI:	0 .
+%act:	colors
+%cod:	$INI
+*FAT:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$REC
+*CHI:	big face .
+%mor:	adj|big n|face .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	big face .
+%mor:	adj|big n|face .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	that (i)s a funny looking face .
+%mor:	pro:dem|that cop|be&3S det:art|a adj|fun&dn-Y part|look-PRESP
+	n|face .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+%cod:	$CON
+*FAT:	keep it on the paper now so you don't get any on the floor .
+%mor:	v|keep pro:per|it prep|on det:art|the n|paper adv|now conj|so
+	pro:per|you mod|do~neg|not v|get qn|any prep|on det:art|the n|floor
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|JCT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|1|CJCT 12|11|OBJ 13|12|JCT 14|15|DET 15|13|POBJ
+	16|1|PUNCT
+%com:	Naomi coloring all over paper .
+%cod:	$CON
+*FAT:	you're doing good .
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adj|good .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$CON
+*CHI:	daddy do it again .
+%mor:	n|daddy v|do pro:per|it adv|again .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%cod:	$INI
+*FAT:	let (u)s do another house .
+%mor:	v|let&ZERO pro:obj|us v|do qn|another n|house .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|1|PUNCT
+%cod:	$REC
+*CHI:	another house .
+%mor:	qn|another n|house .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	you gonna make this house a different color ?
+%mor:	pro:per|you part|go-PRESP~inf|to v|make pro:dem|this n|house
+	det:art|a adj|different n|color ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|9|DET 8|9|MOD
+	9|6|OBJ 10|2|PUNCT
+%cod:	$REC
+*CHI:	yyy .
+%act:	colors
+%cod:	$REC
+*FAT:	boy that (i)s pretty .
+%mor:	co|boy pro:dem|that cop|be&3S adv|pretty .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$REC
+@Eg:	coloring
+@Bg:	reading a book
+*FAT:	what (d)o you wan(t) (t)a read ?
+%mor:	pro:int|what mod|do pro:per|you v|want inf|to v|read&ZERO ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%cod:	$INI
+*FAT:	which one do you wan(t) (t)a read ?
+%mor:	pro:rel|which pro:indef|one mod|do pro:per|you v|want inf|to
+	v|read&ZERO ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|5|PUNCT
+%cod:	$CON
+*CHI:	read mouse .
+%mor:	v|read&ZERO n|mouse .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*FAT:	the mouse ?
+%mor:	det:art|the n|mouse ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	that (i)s a bunny .
+%mor:	pro:dem|that cop|be&3S det:art|a n|bunny .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$CON
+*CHI:	daddy read bunny .
+%mor:	n|daddy v|read&ZERO n|bunny .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$REC
+*FAT:	you wanna read the bunny ?
+%mor:	pro:per|you v|want~inf|to v|read&ZERO det:art|the n|bunny ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%cod:	$REC
+*FAT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*CHI:	frog .
+%mor:	n|frog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looking in book
+%cod:	$REC
+*CHI:	frog .
+%mor:	n|frog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*FAT:	no that (i)s a bug .
+%mor:	qn|no pro:dem|that cop|be&3S det:art|a n|bug .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%gpx:	pointing to bug
+%cod:	$REC
+*CHI:	bunny .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	<what is that> [>] ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*CHI:	bug [<] .
+%mor:	n|bug .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	a bunny .
+%mor:	det:art|a n|bunny .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$CON
+*FAT:	<say I'm a little bunny> [>] .
+%mor:	co|say pro:sub|I~cop|be&1S det:art|a adj|little n|bunny .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+%cod:	$CON
+*CHI:	bunny [<] .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	my name is Frannie .
+%mor:	det:poss|my n|name cop|be&3S n:prop|Frannie .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%com:	reading
+%cod:	$CON
+*CHI:	Frannie .
+%mor:	n:prop|Frannie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	this is my room .
+%mor:	pro:dem|this cop|be&3S det:poss|my n|room .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%gpx:	pointing to new page .
+%com:	reading
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	jumping .
+%mor:	part|jump-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	she is hopping
+%cod:	$INI
+*FAT:	what (i)s in her room ?
+%mor:	pro:int|what cop|be&3S prep|in det:poss|her n|room ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+%gpx:	pointing
+%cod:	$Sco
+*CHI:	xxx bed .
+%mor:	n|bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	bed .
+%mor:	n|bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	<what (i)s &-uh> [/] what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	window .
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	window yes .
+%mor:	n|window co|yes .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	jumping .
+%mor:	part|jump-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	hopping again
+%cod:	$INI
+*CHI:	block .
+%mor:	n|block .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	I brush my teeth when I get up .
+%mor:	pro:sub|I v|brush det:poss|my n|tooth&PL conj|when pro:sub|I v|get
+	adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|2|PUNCT
+%com:	turned page and is reading
+%cod:	$CON
+*FAT:	you do that huh ?
+%mor:	pro:per|you v|do det:dem|that co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|COM 5|2|PUNCT
+%cod:	$CON
+*FAT:	what (i)s she doing ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	xxx brushing teeth .
+%mor:	n:gerund|brush-PRESP n|tooth&PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*FAT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	I wash my face and my hands .
+%mor:	pro:sub|I v|wash det:poss|my n|face coord|and det:poss|my n|hand-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|CONJ 6|7|MOD 7|5|COORD 8|2|PUNCT
+%com:	reading
+%cod:	$CON
+*FAT:	what (i)s she doing there ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|do-PRESP adv|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	doing there .
+%mor:	part|do-PRESP adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$REC
+*CHI:	washing her face .
+%mor:	part|wash-PRESP det:poss|her n|face .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%cod:	$REC
+*FAT:	and what (i)s this here ?
+%mor:	coord|and pro:int|what cop|be&3S pro:dem|this adv|here ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|3|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$CON
+*CHI:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*CHI:	that (i)s comb .
+%mor:	pro:rel|that cop|be&3S v|comb .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$REC
+*FAT:	comb yeah .
+%mor:	n|comb co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s that in there ?
+%mor:	pro:int|what cop|be&3S pro:dem|that prep|in adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	it looks more like an egg doesn't it .
+%mor:	pro:per|it cop|look-3S qn|more prep|like det:art|a n|egg
+	mod|do&3S~neg|not pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|6|DET 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|POBJ 10|2|PUNCT
+%cod:	$REC
+*FAT:	it (i)s a soap .
+%mor:	pro:per|it cop|be&3S det:art|a n|soap .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$CON
+*CHI:	soap .
+%mor:	n|soap .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	I can dress myself .
+%mor:	pro:sub|I mod|can v|dress pro:refl|myself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	reading
+%cod:	$CON
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*FAT:	what (i)s she putting on ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|put-PRESP adv|on ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+%cod:	$CON
+*CHI:	putting on .
+%mor:	part|put-PRESP adv|on .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$REC
+*CHI:	putting on a dress .
+%mor:	part|put-PRESP prep|on det:art|a n|dress .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%cod:	$REC
+*CHI:	putting on a +...
+%mor:	part|put-PRESP prep|on det:art|a +...
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$CON
+*FAT:	a dress .
+%mor:	det:art|a n|dress .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*CHI:	dress .
+%mor:	n|dress .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*FAT:	that (i)s close .
+%mor:	pro:rel|that cop|be&3S adj|close .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$CON
+*FAT:	that (i)s a shirt .
+%mor:	pro:dem|that cop|be&3S det:art|a n|shirt .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$REC
+*FAT:	<what (i)s> [/] what (i)s all this over here ?
+%mor:	pro:int|what cop|be&3S qn|all pro:dem|this adv|over adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|JCT 6|4|JCT 7|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*CHI:	xxx .
+%cod:	$REC
+*FAT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*FAT:	red overalls .
+%mor:	adj|red n:pt|overalls .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this here ?
+%mor:	pro:int|what cop|be&3S pro:dem|this adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	sock .
+%mor:	n|sock .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	shoes .
+%mor:	n|shoe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*FAT:	yeah shoes and socks .
+%mor:	co|yeah n|shoe-PL coord|and n|sock-PL .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%cod:	$REC
+*CHI:	shoes and socks .
+%mor:	n|shoe-PL coord|and n|sock-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*FAT:	mommy makes my breakfast .
+%mor:	n|mommy v|make-3S det:poss|my n|breakfast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%com:	reading
+%cod:	$REC
+*FAT:	what (i)s she have for breakfast ?
+%mor:	pro:int|what cop|be&3S pro:sub|she v|have prep|for n|breakfast ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	that (i)s &-um breakfast .
+%mor:	pro:dem|that cop|be&3S n|breakfast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$REC
+*CHI:	that (i)s &-um beans .
+%mor:	pro:dem|that cop|be&3S n|bean-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$CON
+*FAT:	beans ?
+%mor:	n|bean-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughing
+%cod:	$REC
+*FAT:	well that (i)s +...
+%mor:	co|well pro:dem|that cop|be&3S +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$CON
+*FAT:	what (d)o you have for breakfast ?
+%mor:	pro:int|what mod|do pro:per|you v|have prep|for n|breakfast ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$CON
+*FAT:	you don't have beans for breakfast .
+%mor:	pro:per|you mod|do~neg|not v|have n|bean-PL prep|for n|breakfast .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%cod:	$CON
+*FAT:	what (d)o you have ?
+%mor:	pro:int|what mod|do pro:per|you v|have ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$CON
+*CHI:	xxx .
+%cod:	$REC
+*FAT:	what (i)s this here ?
+%mor:	pro:int|what cop|be&3S pro:dem|this adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$CON
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	dad made comment to Investigator
+%gpx:	pointing
+%cod:	$CON
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	moving to look at book
+%cod:	$REC
+*FAT:	that (i)s a fried egg .
+%mor:	pro:rel|that cop|be&3S det:art|a part|fry-PASTP n|egg .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%cod:	$REC
+*CHI:	fried egg .
+%mor:	part|fry-PASTP n|egg .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$REC
+*FAT:	daddy and mommy fix you scrambled eggs huh ?
+%mor:	n|daddy coord|and n|mommy v|fix pro:per|you v|scramble-PAST
+	n|egg-PL co|huh ?
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|COM
+	9|4|PUNCT
+%cod:	$REC
+*FAT:	I go outdoors to play with my friends .
+%mor:	pro:sub|I v|go adv|outdoors prep|to n|play prep|with det:poss|my
+	n|friend-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+%com:	reading
+%cod:	$CON
+*FAT:	look at all of his friends .
+%mor:	cop|look prep|at pro:indef|all prep|of det:poss|his n|friend-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|NJCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+%gpx:	moves hand across page
+%cod:	$CON
+*CHI:	0 .
+%act:	looks across page following dad's hand
+%cod:	$REA
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*FAT:	I just built you one .
+%mor:	pro:sub|I adv|just v|build&PAST pro:per|you pro:indef|one .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|3|PUNCT
+%cod:	$CON
+*FAT:	xxx what (i)s in there ?
+%mor:	pro:int|what cop|be&3S prep|in adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%com:	soft
+%cod:	$CON
+*CHI:	what (i)s in there sand in there .
+%mor:	pro:int|what cop|be&3S prep|in adv|there n|sand prep|in adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|3|POBJ 6|2|JCT 7|6|POBJ 8|2|PUNCT
+%cod:	$REC
+*FAT:	sand yeah !
+%mor:	n|sand co|yeah !
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%cod:	$REC
+*FAT:	we pick flowers to take home to mommy .
+%mor:	pro:sub|we v|pick n|flower-PL inf|to v|take n|home prep|to n|mommy
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|2|PUNCT
+%com:	reading
+%cod:	$CON
+*FAT:	you do that huh ?
+%mor:	pro:per|you v|do det:dem|that co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|COM 5|2|PUNCT
+%cod:	$CON
+*CHI:	you do that .
+%mor:	pro:per|you v|do pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$REC
+*FAT:	daddy reads us a story before we go to sleep .
+%mor:	n|daddy v|read-3S pro:obj|us det:art|a n|story conj|before
+	pro:sub|we v|go inf|to v|sleep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|10|INF 10|8|XCOMP 11|2|PUNCT
+%com:	reading
+%cod:	$REC
+*FAT:	huh mommy does that huh ?
+%mor:	co|huh n|mommy mod|do&3S det:dem|that co|huh ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|PUNCT
+%cod:	$CON
+*CHI:	mommy does that .
+%mor:	n|mommy mod|do&3S pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$REC
+*FAT:	wanna read another book ?
+%mor:	v|want~inf|to v|read&ZERO qn|another n|book ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|1|PUNCT
+%cod:	$REC
+*CHI:	read one xxx book .
+%mor:	v|read&ZERO det:num|one n|book .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%cod:	$REC
+*FAT:	which one you want ?
+%mor:	pro:rel|which pro:indef|one pro:per|you v|want ?
+%gra:	1|2|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	sets all books in front
+%cod:	$REC
+*CHI:	read this one .
+%mor:	v|read&ZERO pro:dem|this pro:indef|one .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*CHI:	read the xxx .
+%mor:	v|read&ZERO det:art|the .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$CON
+*FAT:	the best word book ever .
+%mor:	det:art|the adj|good&SP n|word n|book adv|ever .
+%gra:	1|4|DET 2|3|MOD 3|4|MOD 4|0|ROOT 5|4|NJCT 6|4|PUNCT
+%com:	reading title
+%cod:	$REC
+*FAT:	boy look at that !
+%mor:	co|boy cop|look prep|at pro:dem|that !
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	opening book
+%cod:	$CON
+*CHI:	look at that .
+%mor:	cop|look prep|at pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	moving toward book
+%cod:	$REC
+*FAT:	it is the morning of a new day the sun is shining .
+%mor:	pro:per|it cop|be&3S det:art|the n|morning prep|of det:art|a
+	adj|new n|day det:art|the n|sun aux|be&3S part|shine-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|2|PUNCT
+%com:	preceded by break in film , dad reading
+%cod:	$REC
+*FAT:	see the sun shining ?
+%mor:	v|see det:art|the n|sun part|shine-PRESP ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|XJCT 5|1|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	sun shining .
+%mor:	n|sun part|shine-PRESP .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	attends to book
+%cod:	$REC
+*FAT:	Kenny Bear gets up out o(f) bed .
+%mor:	n:prop|Kenny n:prop|Bear v|get-3S prep|up adv|out prep|of n|bed .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|JCT 7|6|POBJ 8|3|PUNCT
+%com:	reading continues
+%cod:	$REC
+*FAT:	you have pancakes huh ?
+%mor:	pro:per|you v|have n|pancake-PL co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|COM 5|2|PUNCT
+%add:	to Naomi
+%cod:	$CON
+*CHI:	sit down .
+%mor:	v|sit adv|down .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	adjusts position
+%cod:	$INI
+*FAT:	with butter and maple syrup .
+%mor:	prep|with n|butter coord|and n|maple n|syrup .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+%com:	continues to read
+%cod:	$Sco
+*FAT:	he doesn't eat the toaster .
+%mor:	pro:sub|he mod|do&3S~neg|not v|eat det:art|the n|toast&dv-AGT .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%com:	still reading
+%cod:	$CON
+*CHI:	sit down .
+%mor:	v|sit adv|down .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$Sco
+*FAT:	fried eggs bacon toast +...
+%mor:	v|fry-PAST n|egg-PL n|bacon n|toast +...
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%com:	continues to read
+%cod:	$CON
+*FAT:	when he finishes eating breakfast he helps wash and dry the dishes
+	.
+%mor:	conj|when pro:sub|he v|finish-3S part|eat-PRESP n|breakfast
+	pro:sub|he v|help-3S n|wash coord|and v|dry det:art|the n|dish-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|SUBJ 7|3|COMP 8|7|OBJ
+	9|7|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|3|PUNCT
+%com:	still reading
+%cod:	$CON
+*CHI:	helpin(g) .
+%mor:	part|help-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*CHI:	xxx .
+%com:	simultaneous with above
+%cod:	$REC
+*CHI:	cup .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	0 .
+%gpx:	points to another picture
+%cod:	$REA
+*FAT:	cup .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON
+*CHI:	cup .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	plate .
+%mor:	n|plate .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	pointing to another picture
+%cod:	$REC
+*CHI:	plate .
+%mor:	n|plate .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing to another picture
+%cod:	$REC
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	bowl .
+%mor:	n|bowl .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	bowl .
+%mor:	n|bowl .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$REC
+*CHI:	this fork .
+%mor:	pro:dem|this n|fork .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	yeah fork .
+%mor:	co|yeah n|fork .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*CHI:	this .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	pointing
+%cod:	$CON
+*FAT:	that (i)s a knife .
+%mor:	pro:dem|that cop|be&3S det:art|a n|knife .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%gpx:	pointing to same picture
+%cod:	$REC
+*CHI:	knife !
+%mor:	n|knife !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$REC
+*FAT:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing to another picture
+%cod:	$REC
+*CHI:	spoon .
+%mor:	n|spoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	poon
+%cod:	$REC
+*FAT:	spoon yeah .
+%mor:	n|spoon co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%cod:	$REC
+*FAT:	and a glass +...
+%mor:	coord|and det:art|a n|glass +...
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%com:	finishes labeling all items on page
+%cod:	$CON
+*CHI:	xxx .
+%alt:	kicking
+%act:	on all fours with back leg in air
+%com:	does not appear to be attending
+%cod:	$INI
+*FAT:	look at his house .
+%mor:	cop|look prep|at det:poss|his n|house .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%act:	turning page
+%cod:	$Sco
+*CHI:	0 .
+%act:	looks at book
+%cod:	$REA
+*FAT:	father rabbit (.) mother rabbit (.) and the rabbit children are
+	getting ready for the new day .
+%mor:	n|father n|rabbit n|mother n|rabbit coord|and det:art|the n|rabbit
+	n|child&PL aux|be&PRES part|get-PRESP adj|ready prep|for det:art|the
+	adj|new n|day .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|10|LINK 6|8|DET 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|10|JCT 12|10|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|4|PUNCT
+%com:	continues to read
+%cod:	$REC
+*CHI:	0 .
+%act:	looking at camera
+%cod:	$INI
+*FAT:	what are you looking at there huh ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|look-PRESP prep|at
+	adv|there co|huh ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|COM 8|4|PUNCT
+%com:	Naomi looking at camera
+%cod:	$REC
+*CHI:	looking in the house .
+%mor:	part|look-PRESP prep|in det:art|the n|house .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%cod:	$REC
+*FAT:	in the house .
+%mor:	prep|in det:art|the n|house .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$REC
+*FAT:	you can see inside their house huh ?
+%mor:	pro:per|you mod|can v|see prep|inside det:poss|their n|house co|huh
+	?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|COM 8|3|PUNCT
+%cod:	$CON
+*FAT:	painting and drawing are fun .
+%mor:	part|paint-PRESP coord|and n|drawing cop|be&PRES adj|fun .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|PRED 6|1|PUNCT
+%com:	reading , Naomi moving around not attending
+%cod:	$Sco
+*CHI:	kicking .
+%mor:	part|kick-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	kicking legs in air
+%cod:	$INI
+*FAT:	<you can draw with crayons or pencils> [>] .
+%mor:	pro:per|you mod|can v|draw prep|with n|crayon-PL coord|or
+	n|pencil-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|CONJ 7|6|COORD 8|3|PUNCT
+%com:	keeps reading
+%cod:	$Sco
+*CHI:	<you can> [<] .
+%mor:	pro:per|you mod|can .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%cod:	$REC
+*FAT:	what do you like to draw ?
+%mor:	pro:int|what mod|do pro:per|you v|like inf|to v|draw ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%add:	to Naomi
+%cod:	$CON
+*FAT:	we just did that with crayons didn't we .
+%mor:	pro:sub|we adv|just v|do&PAST pro:dem|that prep|with n|crayon-PL
+	mod|do&PAST~neg|not pro:sub|we .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|JCT 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|POBJ 10|3|PUNCT
+%cod:	$CON
+*CHI:	kicking .
+%mor:	part|kick-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	kicking legs in air
+%com:	Investigator speaking to dad
+%cod:	$Sco
+*FAT:	are you done reading now ?
+%mor:	cop|be&PRES pro:per|you part|do&PASTP part|read-PRESP adv|now ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XJCT 4|3|OBJ 5|4|JCT 6|1|PUNCT
+%add:	to Naomi
+%cod:	$REC
+*CHI:	done reading now .
+%mor:	part|do&PASTP part|read-PRESP adv|now .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+%cod:	$REC
+@Eg:	reading a book
+@End
